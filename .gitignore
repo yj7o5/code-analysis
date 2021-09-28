@@ -1,0 +1,7 @@
+# contains jupyter server secrets
+secrets
+
+# these are training data sets
+training
+the-eye.eu
+
